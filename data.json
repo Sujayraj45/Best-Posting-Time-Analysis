@@ -1,0 +1,23 @@
+{
+    "total_posts_analyzed": 15200,
+    "peak_engagement_day": "Wednesday",
+    "optimal_time_window": "11 AM - 1 PM",
+    "avg_engagement_rate": 5.1,
+    "platforms": {
+        "all": {
+            "daily_engagement": [70, 82, 95, 86, 75, 48, 35]
+        },
+        "instagram": {
+            "daily_engagement": [65, 75, 98, 85, 90, 65, 55],
+            "avg_rate": 5.8
+        },
+        "linkedin": {
+            "daily_engagement": [80, 90, 92, 88, 75, 25, 20],
+            "avg_rate": 4.8
+        },
+        "twitter": {
+            "daily_engagement": [75, 80, 90, 85, 92, 60, 45],
+            "avg_rate": 2.5
+        }
+    }
+}
